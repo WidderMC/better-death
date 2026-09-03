@@ -1,0 +1,14 @@
+{
+    "name": "Better Death",
+    "id": "better-death",
+    "pack": {
+           "pack_format": 48,
+           "description": "Better Death Datapack / Mod",
+           "supported_formats": [48,81],
+           "min_format": 48,
+           "max_format": 120
+       },
+    "authors": [
+        "Widder"
+    ]
+}
